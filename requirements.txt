@@ -1,0 +1,11 @@
+langchain
+faiss-cpu
+langchain-community
+sentence-transformers
+chromadb
+pypdf
+python-dotenv
+langchain-text-splitters
+langchain-core
+streamlit
+ollama
